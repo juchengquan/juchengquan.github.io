@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+SC:700');
+
+html, body, section, div {
+}
+
+body { 
+  font-family: 'Fira Sans', sans-serif;
+  color: black;
+  background-color: white;
+  font-size: 18px;
+  line-height: 1.8;
+  letter-spacing: 0.0125em;
+  text-align: left;
+  padding-top: 2rem;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5rem;
+}
+
+.cn_name {
+  font-family: 'Noto Serif SC', serif;
+  font-size: 20px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: black;
+}
+
+hr.short {
+    border: 0;
+    height: 1px;
+    background: black;
+    margin-right: 75%;
+}
+
+.container {
+  display: table;
+  width: 100%;
+  height: auto;
+}
+
+div {
+  display: table-cell;
+  text-align: left;
+  width: 50%;
+  padding-top: 1rem;;
+  padding-bottom: 1rem;
+}
+
+div.left-half {
+  display: table-cell;
+  text-align: left;
+  width: 25%;
+  padding-top: 1rem;;
+  padding-bottom: 1rem;
+}
+
+btn {
+  display: table;
+  padding-top: 2rem;;
+  padding-bottom: 2rem;
+}
+
+
+sup { 
+    vertical-align: super;
+    font-size: 0.7em;
+    padding-left: 0.1em;
+}
+
+a img {
+width: 0px;
+height: auto;
+border-width: 2px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    border-bottom: 1px dotted gray;
+    transition: color 0.1s linear;
+    -webkit-transition: color 0.1s linear;
+    -moz-transition: color 0.1s linear;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: #F3B69A;
+    border-bottom-color: #F3B69A;
+}
+
+a:active {
+    color: black;
+}
+
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+li {
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+
+li:before {
+  content: "→";
+  padding-right: 8px;
+  vertical-align: 0%;
+  margin-left: -27px;
+}
+
+fav {
+  vertical-align: -1%;
+}
+
+fav2 {
+  vertical-align: 0%;
+}
+
+@media only screen and (max-width: 800px) {
+    
+body { 
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 0.0125em;
+  text-align: left;
+  padding-top: 0rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: black;
+}
+
+.container {
+  display: table;
+  width: 100%;
+  height: auto;
+}
+
+div {
+  display: block;
+  text-align: left;
+  width: 100%;
+  padding-top: 0.2rem;;
+  padding-bottom: 0.2rem;
+}
+
+btn {
+  display: table;
+  padding-top: 1.3rem;
+}
+
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+li {
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+
+li:before {
+  content: "➡️";
+  size: 1rem;
+  padding-right: 6px;
+  vertical-align: 0%;
+  margin-left: 0px;
+}
+
+sup { 
+    vertical-align: super;
+    font-size: 0.7em;
+    padding-left: 0.1em;
+}
+
+.left-half {
+  font-weight: 600;
+  line-height: 1.5;
+  padding-top: 1.3rem;
+}
+
+.right-half {
+  padding-bottom: 1.3rem;
+}
+
+}
