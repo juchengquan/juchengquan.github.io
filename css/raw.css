@@ -6,6 +6,32 @@
 html, body, section, div {
 }
 
+.collapsible {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
+
+.active, .collapsible:hover {
+    background-color: #555;
+}
+
+.content {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #f1f1f1;
+}
+
+
+
 body { 
   font-family: 'Fira Sans', sans-serif;
   color: black;
@@ -55,7 +81,7 @@ div {
 div.left-half {
   display: table-cell;
   text-align: left;
-  width: 25%;
+  width: 20%;
   font-weight: 700;
   padding-top: 0.5rem;;
   padding-bottom: 0.5rem;
