@@ -5,13 +5,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <script src="./assets/bootstrap.bundle.min.js"></script>
-
   <link rel="shortcut icon" type="image/png" href="fig/title_icon.svg" />
 
-  <link rel="stylesheet" href="./assets/bootstrap.min.css">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
-  <link rel="stylesheet" href="./assets/aux.css">
+  <script src="./assets/bootstrap/bootstrap.bundle.min.js"></script>
+  <link rel="stylesheet" href="./assets/bootstrap/bootstrap.min.css">
+
+  <link href="./assets/fontawesome/css/all.min.css" rel="stylesheet" >
+
+  <link rel="stylesheet" href="./assets/patch/aux.css">
 
   <title>JU Chengquan</title>
 </head>
@@ -29,6 +30,7 @@
       <div class="collapse navbar-collapse" id="navbarDropdown">
         <ul class="navbar-nav navbar-nav-scroll mx-auto my-0" id="pills-tab" role="tablist"
           style="--bs-scroll-height: 10rem;">
+          
           <li class="nav-item" role="presentation">
             <button class="nav-link active" id="tab_home" data-bs-toggle="pill" data-bs-target="#pills-home"
               type="button" role="tab" aria-controls="pills-home" aria-selected="true">About Me</button>
@@ -41,7 +43,6 @@
             <button class="nav-link" id="tab_publications" data-bs-toggle="pill" data-bs-target="#pills-publications"
               type="button" role="tab" aria-controls="pills-publications" aria-selected="false">Publications</button>
           </li>
-          
           <!-- TODO -->
           <!-- <li class="nav-item" role="presentation">
             <button class="nav-link" id="tab_miscellaneous" data-bs-toggle="pill" data-bs-target="#pills-miscellaneous" type="button" role="tab" aria-controls="pills-miscellaneous" aria-selected="false">Miscellaneous</button>
@@ -49,15 +50,20 @@
         </ul>
 
         <a class="navbar-brand" href="files/myCV.pdf" download="CV_chengquanju.pdf" target="_blank" style="border-bottom: 0">
-          <i class="fas fa-file-pdf" style="color:#F40F02"></i>
+          <i class="fa-regular fa-file-pdf" style="color:#F40F02"></i>
         </a>
         <a class="navbar-brand" href="mailto:ju.chengquan@gmail.com">
-          <i class="far fa-envelope" aria-hidden="true" style="color:rgb(66, 66, 66)"></i>
+          <i class="fa-regular fa-envelope" aria-hidden="true" style="color:rgb(66, 66, 66)"></i>
         </a>
         <a class="navbar-brand" href="https://www.linkedin.com/in/chengquan-ju">
-          <i class="fab fa-linkedin-in" style="color:#0E76A8"></i>
+          <i class="fa-brands fa-linkedin" style="color:#0E76A8"></i>
         </a>
-        <a href="https://github.com/juchengquan"><i class="fab fa-github" style="color:#0f0f0f"></i></a>
+        <a class="navbar-brand" href="https://github.com/juchengquan">
+          <i class="fa-brands fa-github" style="color:#0f0f0f"></i>
+        </a>
+        <a class="navbar-brand" href="https://scholar.google.ca/citations?user=wX4le_QAAAAJ&amp;hl=en" target="_blank" title="Google Scholar">
+          <i class="fa-brands fa-google-scholar" style="color:green"></i>
+        </a>
       </div>
     </div>
   </nav>
