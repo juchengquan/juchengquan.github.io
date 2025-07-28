@@ -1,9 +1,0 @@
-.pt-6 {
-  padding-top: 4rem !important
-}
-
-@media (min-width: 1200px) {
-  .container {
-    width: 1200px !important;
-  }
-}
