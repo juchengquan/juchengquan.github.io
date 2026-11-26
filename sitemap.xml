@@ -31,6 +31,36 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://juchengquan.github.io/publications/" />
 </url>
 <url>
+<loc>https://juchengquan.github.io/projects/rrf/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://juchengquan.github.io/projects/rrf/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://juchengquan.github.io/zh/projects/rrf/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://juchengquan.github.io/projects/rrf/" />
+</url>
+<url>
+<loc>https://juchengquan.github.io/projects/magpie/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://juchengquan.github.io/projects/magpie/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://juchengquan.github.io/zh/projects/magpie/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://juchengquan.github.io/projects/magpie/" />
+</url>
+<url>
+<loc>https://juchengquan.github.io/projects/osrm-node-api/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://juchengquan.github.io/projects/osrm-node-api/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://juchengquan.github.io/zh/projects/osrm-node-api/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://juchengquan.github.io/projects/osrm-node-api/" />
+</url>
+<url>
+<loc>https://juchengquan.github.io/projects/optionality/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://juchengquan.github.io/projects/optionality/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://juchengquan.github.io/zh/projects/optionality/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://juchengquan.github.io/projects/optionality/" />
+</url>
+<url>
+<loc>https://juchengquan.github.io/projects/kingfisher/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://juchengquan.github.io/projects/kingfisher/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://juchengquan.github.io/zh/projects/kingfisher/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://juchengquan.github.io/projects/kingfisher/" />
+</url>
+<url>
 <loc>https://juchengquan.github.io/zh/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://juchengquan.github.io/" />
 <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://juchengquan.github.io/zh/" />
@@ -59,5 +89,35 @@
 <xhtml:link rel="alternate" hreflang="en" href="https://juchengquan.github.io/publications/" />
 <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://juchengquan.github.io/zh/publications/" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://juchengquan.github.io/publications/" />
+</url>
+<url>
+<loc>https://juchengquan.github.io/zh/projects/rrf/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://juchengquan.github.io/projects/rrf/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://juchengquan.github.io/zh/projects/rrf/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://juchengquan.github.io/projects/rrf/" />
+</url>
+<url>
+<loc>https://juchengquan.github.io/zh/projects/magpie/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://juchengquan.github.io/projects/magpie/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://juchengquan.github.io/zh/projects/magpie/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://juchengquan.github.io/projects/magpie/" />
+</url>
+<url>
+<loc>https://juchengquan.github.io/zh/projects/osrm-node-api/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://juchengquan.github.io/projects/osrm-node-api/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://juchengquan.github.io/zh/projects/osrm-node-api/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://juchengquan.github.io/projects/osrm-node-api/" />
+</url>
+<url>
+<loc>https://juchengquan.github.io/zh/projects/optionality/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://juchengquan.github.io/projects/optionality/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://juchengquan.github.io/zh/projects/optionality/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://juchengquan.github.io/projects/optionality/" />
+</url>
+<url>
+<loc>https://juchengquan.github.io/zh/projects/kingfisher/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://juchengquan.github.io/projects/kingfisher/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://juchengquan.github.io/zh/projects/kingfisher/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://juchengquan.github.io/projects/kingfisher/" />
 </url>
 </urlset>
